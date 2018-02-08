@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.lions.app.qrattendance.Login">
+
+
+    <Button
+        android:layout_marginTop="100dp"
+
+        android:text="Log in Google"
+        android:background="@android:color/holo_green_light"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:id="@+id/login_button"
+        />
+
+    <Button
+
+        android:background="@android:color/holo_green_light"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_margin="15dp"
+        android:id="@+id/scanandmark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Scan and Mark Attendance"/>
+
+</LinearLayout>

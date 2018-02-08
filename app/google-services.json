@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "657173101971",
+    "firebase_url": "https://attendancerecord-2eae8.firebaseio.com",
+    "project_id": "attendancerecord-2eae8",
+    "storage_bucket": "attendancerecord-2eae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657173101971:android:92fd953cc178123b",
+        "android_client_info": {
+          "package_name": "com.lions.app.qrattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657173101971-9cc23e3iafpbuj1pup0qiohc9sglukc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lions.app.qrattendance",
+            "certificate_hash": "4274854490a09f1f5a6fc57126b40ea5f029ea5b"
+          }
+        },
+        {
+          "client_id": "657173101971-1ssmg5vbuauvjeme59glksd8bc7lgo78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLsgJtUZ1BsrZVXVfGgJVROO0WRwwgZ_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657173101971-1ssmg5vbuauvjeme59glksd8bc7lgo78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
